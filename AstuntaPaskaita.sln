@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1PirmaUzduotis_Funkcionalumas", "1PirmaUzduotis_AutomobiliuNuomosSistema\1PirmaUzduotis_Funkcionalumas.csproj", "{1EE48111-E8ED-461B-AABF-751A9C20B988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1PirmaUzduotis_Pangrindinis_AutomobiliuNuoma", "ConsoleApp1\1PirmaUzduotis_Pangrindinis_AutomobiliuNuoma.csproj", "{696B71DE-937F-47E8-A5CF-0D7ACCF8625C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EE48111-E8ED-461B-AABF-751A9C20B988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE48111-E8ED-461B-AABF-751A9C20B988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE48111-E8ED-461B-AABF-751A9C20B988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE48111-E8ED-461B-AABF-751A9C20B988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{696B71DE-937F-47E8-A5CF-0D7ACCF8625C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696B71DE-937F-47E8-A5CF-0D7ACCF8625C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696B71DE-937F-47E8-A5CF-0D7ACCF8625C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696B71DE-937F-47E8-A5CF-0D7ACCF8625C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {544A4079-19B6-410D-BDDF-4F59D77F19F2}
+	EndGlobalSection
+EndGlobal
