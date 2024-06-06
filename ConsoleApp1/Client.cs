@@ -18,7 +18,7 @@
         // pasiimti automobilį iš sąrašo ir apskaičiuoti nuomos kainą už nurodytą dienų skaičių.
         // Pridėti viso autoparko atspausdinimą. Susikūrus klasę autoparkas
         // prisidėti sąrašą automobilių.
-        class UI
+        class Client
         {
                 public static void Main(string[] args)
                 {
